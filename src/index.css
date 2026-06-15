@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+    background-image: url('./assets/Image/chat.jpg');
+    background-size: cover;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
